@@ -5,8 +5,8 @@ for better design i have made a config file where you can control both the name 
 
 
 # main.py
-First of all download all the impoeted libs in the start of the script.
-For the python script all you need is to generat your own json file that will store the bot creds from the Google Workspace for Developers.
+First of all download all the imported libraries in the start of the script.
+For the python script all you need is to generate your own json file that will store the bot credentials from Google Workspace for Developers.
 after the json file is downloaded import the file to the project environment and replace it with the YourOwnCreds.json
 then open your json file and share the client_email attribute with your spreadsheet you want this BOT to auto download and convert.
 
